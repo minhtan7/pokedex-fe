@@ -1,4 +1,4 @@
-export const pekemonType = [
+export const pokemonTypes = [
     "bug",
     "dragon",
     "fairy",
